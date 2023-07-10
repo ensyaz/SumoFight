@@ -4,8 +4,7 @@ Sumo Fight is a hypercasual game that designed in Unity Engine. It is designed f
 ## Images
 MainMenu            |  InGame             |  End
 :-------------------------:|:-------------------------: |:-------------------------:
-![Main](https://github.com/ensyaz/CaseStudySumo/assets/45393463/8ad86418-1bc5-46aa-aca5-882470308c4d)  |  ![ingame](https://github.com/ensyaz/CaseStudySumo/assets/45393463/383c02c9-5605-42e2-979e-005bfb572e27) | ![End](https://github.com/ensyaz/CaseStudySumo/assets/45393463/02a34211-58a6-47eb-b4e4-f5114808a5bd)
+![Main](https://github.com/ensyaz/SumoFight/assets/45393463/6e5e2ef1-8243-41e0-b850-9e9e3c58172d)  |  ![InGame](https://github.com/ensyaz/SumoFight/assets/45393463/5261d472-ac13-41f6-b5b1-03eee6fe030e) | ![End](https://github.com/ensyaz/SumoFight/assets/45393463/2bdda4c0-4823-41e1-82af-af835ee7a77c)
 
 ## Gameplay
-https://github.com/ensyaz/CaseStudySumo/assets/45393463/e5007a5d-b865-4f8e-995e-fd1c64bf63c0
-
+https://github.com/ensyaz/SumoFight/assets/45393463/e0945443-9a0a-40df-9af1-4cd9c94a3f73
