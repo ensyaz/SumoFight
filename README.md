@@ -4,5 +4,6 @@ Sumo Fight is a hypercasual game that designed in Unity Engine. It is designed f
 ## Images
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![Main](https://github.com/ensyaz/CaseStudySumo/assets/45393463/8ad86418-1bc5-46aa-aca5-882470308c4d) |  ![Main](https://github.com/ensyaz/CaseStudySumo/assets/45393463/8ad86418-1bc5-46aa-aca5-882470308c4d)
+![Main](https://github.com/ensyaz/CaseStudySumo/assets/45393463/8ad86418-1bc5-46aa-aca5-882470308c4d) |  ![ingame](https://github.com/ensyaz/CaseStudySumo/assets/45393463/383c02c9-5605-42e2-979e-005bfb572e27)
+
 
