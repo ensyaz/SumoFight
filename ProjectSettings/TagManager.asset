@@ -3,20 +3,25 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Lose
+  - SumoFront
+  - SumoBack
+  - Sumo
+  - Food
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Food
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Sumo1
+  - Sumo2
+  - Sumo3
+  - Sumo4
+  - Sumo5
+  - Sumo6
   - 
   - 
   - 
